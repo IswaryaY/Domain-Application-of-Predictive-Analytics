@@ -14,9 +14,6 @@ The impact of poor quality of the iron ore will not result in the reduction of r
 
 The Quality mining Prediction Dataset is collected from a mining industry, which is available as a CSV file form in Kaggle website. This is available for public access without any restrictions. This data is the process held in the period from March to September in the year of 2017. The dataset comprises of numerical variables, which is about 24 columns in total. The total rows of the data are about 736282. 
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## MISSING VALUES
 The missing values does not help to obtain the prediction at good level. The missing values in the attributes can be filled in two ways- one is by using mean or mode values and the other one is deleting the column which has missing values. In this dataset, there is no missing values present. The date column has ignored, because it has no dependence on the dependent Variable.
